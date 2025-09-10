@@ -31,9 +31,8 @@ Network and Telecommunications Engineer | Telco Cloud Engineer | 5G Engineer | A
 ---
 
 ## Socials
-[LinkedIn](https://www.linkedin.com/in/rayan-bourada-0005b4286) | [GitHub](https://github.com/BOURADArayan/) | [Twitter](https://www.threads.com/@rayan.bourada?xmt=AQF0era_keJDwK21J7CPGkxmOpgPe_g-gFF7yZ9d8Ick_K0/)
+[LinkedIn](https://www.linkedin.com/in/rayan-bourada-0005b4286) | [GitHub](https://github.com/BOURADArayan/) | [threads](https://www.threads.com/@rayan.bourada?xmt=AQF0era_keJDwK21J7CPGkxmOpgPe_g-gFF7yZ9d8Ick_K0/)
 
 ---
 
-## Support Me
-[Buy Me a Coffee](https://www.buymeacoffee.com/)
+
