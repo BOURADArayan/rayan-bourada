@@ -2,14 +2,14 @@
 
 ![Animated GIF](176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-My name is **Rayan Bourada**, 22 years old  
+My name is **Rayan Bourada**, 23 years old  
 Lab Engineer at **Lablabee**  
 Network and Telecommunications Engineer | Telco Cloud Engineer | 5G Engineer | Azure | AWS | OpenShift  
 
 🌍  I'm based in **Baba Hassen, Algiers, Algeria**  
 📅  Birthday: 17 October  
 ✉️  Email: [rayenbourada5@gmail.com](mailto:rayenbourada5@gmail.com)  
-📞  Phone: +213 561 859 700  
+📞  Phone: +213 696 123 929  
 💼  LinkedIn: [linkedin.com/in/rayan-bourada-0005b4286](https://www.linkedin.com/in/rayan-bourada-0005b4286)  
 
 🧠  Experienced in Cloud, Network, and Telecom solutions, including 5G, Azure, AWS, and OpenShift  
@@ -28,6 +28,12 @@ Network and Telecommunications Engineer | Telco Cloud Engineer | 5G Engineer | A
 - Network & Telecom Engineering
 
 
+---
+📄 Interested in my profile?
+
+If you’re interested and would like to contact me, here is my CV available for download:
+
+👉 **[Download my CV](https://drive.google.com/u/0/uc?id=1o8mof-VmKqzn4nZS4wdEbUB0mS9o-GT-&export=download)**
 ---
 
 ## Socials
