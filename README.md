@@ -26,6 +26,7 @@ Network and Telecommunications Engineer | Telco Cloud Engineer | 5G Engineer | A
 - Linux
 - 5G Networks  
 - Network & Telecom Engineering
+- GenAI
 
 
 ---
@@ -33,7 +34,7 @@ Network and Telecommunications Engineer | Telco Cloud Engineer | 5G Engineer | A
 
 If you’re interested and would like to contact me, here is my CV available for download:
 
-👉 **[Download my CV](https://drive.google.com/u/0/uc?id=1o8mof-VmKqzn4nZS4wdEbUB0mS9o-GT-&export=download)**
+👉 **[Download my CV](https://drive.google.com/uc?id=1Y0rezkeODZscnlsqFL2OeUDzS4bXwAu5&export=download)**
 ---
 
 ## Socials
